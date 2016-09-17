@@ -1,0 +1,42 @@
+html {
+    background-color: rgb(255, 60, 60);
+    height: 100%;
+    width 100%;
+}
+
+.backbutton {
+    display: inline-block;
+    position: absolute;
+    top: 40px;
+}
+
+.backbuttontext {
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    color: #333;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.login {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.busnumber {
+    padding: 40px;
+    
+}
+
+.accesscode {
+    padding: 40px;
+}
+
+.submit {
+    margin-top: 50px;
+  
+}
